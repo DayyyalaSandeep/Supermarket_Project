@@ -1,1 +1,1 @@
-# Supermarket_Project
+This project is a web-based application designed to manage the operations of a supermarket. Developed using PHP, MySQL, HTML, CSS, and JavaScript, it includes features such as inventory management, sales tracking, billing, and user management. The system streamlines supermarket operations by providing a user-friendly interface for administrators and staff to handle products, customers, and transactions efficiently.
